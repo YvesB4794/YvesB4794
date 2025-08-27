@@ -6,7 +6,6 @@ I am a passionate Software Engineering student at ALX, driven by a curiosity for
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing Software Engineering at ALX.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
@@ -34,7 +33,6 @@ I am a passionate Software Engineering student at ALX, driven by a curiosity for
 ## 📬 Get in Touch
 
 - Connect with me on [linkedin](https://www.linkedin.com/in/yves-bayingana-5a32899a)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
